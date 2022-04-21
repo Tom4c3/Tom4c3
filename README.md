@@ -23,12 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🏫 Education
-* 熊本大学大学院自然科学教育部　情報電気工学専攻　在籍（2022.4～）
+* 熊本大学大学院自然科学教育部情報電気工学専攻　在籍（2022.4～）
 * 熊本大学工学部情報電気工学科　卒業（2022.3）
 
 ### 📚 Certification
 
-* 日本バーチャルリアリティ学会公認　上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
+* 日本バーチャルリアリティ学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
 * TOEIC® IP Listening & Reading Test Score：845
 
 <!---
