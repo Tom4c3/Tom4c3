@@ -2,7 +2,7 @@
 - 👀 I’m interested in Virtual Reality.
 - 🌱 I’m currently learning Unity, C#, and Control Engineering.
 - 💞️ I’m looking to collaborate on VR developments.
-- 📫 How to reach me : Twitter：@T_4c3
+- 📫 How to reach me : Twitter @T_4c3
 
 <!---
 Tom4c3/Tom4c3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
