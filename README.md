@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 * 日本バーチャルリアリティ学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
 * TOEIC® IP Listening & Reading Test Score：845（2020）
-* 実用英語技能検定2級（20
+* 実用英語技能検定2級（2018）
 
 ### 🎀 Organization
 
