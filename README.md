@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🎀 Organization
 
-* [KuMA（Kumamoto university Metaverse Architect）](https://sites.google.com/view/kuma-vr/home)
+* [ KuMA（Kumamoto university Metaverse Architect）](https://sites.google.com/view/kuma-vr/home)
 
 <!---
 ### 🗣️ LT / Session Talk
