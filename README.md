@@ -26,11 +26,12 @@ You can click the Preview link to take a look at your changes.
 ### 📚 Certification
 
 * 日本バーチャル学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
-* TOEIC® Listening & Reading Test Score 845
+* TOEIC® IP Listening & Reading Test Score 845
 
-
+<!---
 ### 🗣️ LT / Session Talk
 
 #### 2022
 
 * 
+--->
