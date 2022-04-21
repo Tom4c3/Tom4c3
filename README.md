@@ -27,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 * 熊本大学工学部情報電気工学科卒業（2022.3）
 * 大分県立中津南高校卒業（2018.3)
 
-### 📚 Certification
+### 📚 Qualifications
 
 * 日本バーチャルリアリティ学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
-* TOEIC® IP Listening & Reading Test Score：845
-* 実用英語技能検定2級
+* TOEIC® IP Listening & Reading Test Score：845（2020）
+* 実用英語技能検定2級（20
 
 ### 🎀 Organization
 
