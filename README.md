@@ -33,8 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 #### 2022
 
-* [XRMTG 2022/03/16](https://osaka-driven-dev-br-tokyo.connpass.com/event/241110/) / LT (2022.3) 
-
-#### 2021
-
 * 
