@@ -44,9 +44,6 @@ You can click the Preview link to take a look at your changes.
 * 夢のもふもふ（IVRC2021 LEAP Stage進出）
   * <a href="http://ivrc.net/archive/%E5%A4%A2%E3%81%AE%E3%82%82%E3%81%B5%E3%82%82%E3%81%B52021/">IVRCアーカイブページ</a>
   * <a href="https://www.youtube.com/watch?v=HyIg_uiaX70">YouTube動画</a>
-* バーチャル熊大（熊本大学 DESIGN AWARD 2020入賞）
-  * <a href="https://cluster.mu/w/3ad13742-9778-472a-a9ec-2f7bb44319bb">clusterワールド</a>
-  * <a href="http://cedec.kumamoto-u.ac.jp/designAward/2020/result.html">熊本大学DESIGN AWARD 2020ページ</a>
 * VRギャラリーワールド
   * <a href="https://cluster.mu/w/65a3273e-43e0-423c-b711-0fcd88d2a871">T2のギャラリー2</a>
 
@@ -55,6 +52,8 @@ You can click the Preview link to take a look at your changes.
 ### 🗣️ LT / Session Talk
 
 #### 2022
-
+* バーチャル熊大（熊本大学 DESIGN AWARD 2020入賞）
+  * <a href="https://cluster.mu/w/3ad13742-9778-472a-a9ec-2f7bb44319bb">clusterワールド</a>
+  * <a href="http://cedec.kumamoto-u.ac.jp/designAward/2020/result.html">熊本大学DESIGN AWARD 2020ページ</a>
 * 
 --->
