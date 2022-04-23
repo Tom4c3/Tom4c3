@@ -20,6 +20,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://qiita.com/T_4c3">
   <img height="25" src="https://img.shields.io/badge/Qiita--55C500.svg?logo=qiita&style=for-the-badge">
 </a>
+<a href="https://www.pixiv.net/users/33003714">
+  <img height="25" src="https://img.shields.io/badge/pixiv--1DA1F2.svg?logo=pixiv&style=for-the-badge">
+</a>
+
 
 
 ### 🏫 Education
