@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📚 Qualifications
 
-* 日本バーチャルリアリティ学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist（2020）
+* 日本バーチャルリアリティ学会認定上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist（2020）
 * TOEIC® IP Listening & Reading Test Score：845（2020）
 * 実用英語技能検定2級（2016）
 
