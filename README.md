@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### ⚡ SNS
+### 💻 SNS
 
 <a href="http://twitter.com/T_4c3">
   <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
@@ -41,11 +41,9 @@ You can click the Preview link to take a look at your changes.
 * <a href="https://sites.google.com/view/kuma-vr/home" target="_blank">KuMA（Kumamoto university Metaverse Architect）</a>	
 --->
 ### 📚 Works
-* 夢のもふもふ（IVRC2021 LEAP Stage進出）
+* <a href="https://www.youtube.com/watch?v=HyIg_uiaX70">夢のもふもふ</a>（IVRC2021 LEAP Stage進出）
   * <a href="http://ivrc.net/archive/%E5%A4%A2%E3%81%AE%E3%82%82%E3%81%B5%E3%82%82%E3%81%B52021/">IVRCアーカイブページ</a>
-  * <a href="https://www.youtube.com/watch?v=HyIg_uiaX70">YouTube動画</a>
-* VRギャラリーワールド
-  * <a href="https://cluster.mu/w/65a3273e-43e0-423c-b711-0fcd88d2a871">T2のギャラリー2</a>
+* <a href="https://cluster.mu/w/65a3273e-43e0-423c-b711-0fcd88d2a871">T2のギャラリー2</a>
 
 
 <!---
