@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img height="25" src="https://img.shields.io/badge/pixiv--1DA1F2.svg?logo=pixiv&style=for-the-badge">
 </a>
 
-
+<!---
 ### 🏫 Education
 * 熊本大学大学院自然科学教育部情報電気工学専攻（2022.4～）
 * 熊本大学工学部情報電気工学科卒業（2022.3）
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🎀 Organization
 * <a href="https://sites.google.com/view/kuma-vr/home" target="_blank">KuMA（Kumamoto university Metaverse Architect）</a>	
-
+--->
 ### 🖼 Works
 * 夢のもふもふ（IVRC2021 LEAP Stage進出）
   * <a href="http://ivrc.net/archive/%E5%A4%A2%E3%81%AE%E3%82%82%E3%81%B5%E3%82%82%E3%81%B52021/">IVRCアーカイブページ</a>
