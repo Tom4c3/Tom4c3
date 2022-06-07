@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 ### 💻 SNS
+markdownではtarget属性が使えない？から新しいタブで開かせることはできないっぽい
+https://www.web-dev-qa-db-ja.com/ja/github/target-blank%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6github-markdown%E3%81%A7%E6%96%B0%E3%81%97%E3%81%84%E3%82%BF%E3%83%96%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E9%96%8B%E3%81%8F/830231995/
 --->
 
 <a href="http://twitter.com/T_4c3" target="_blank">
