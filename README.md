@@ -17,13 +17,13 @@ markdownではtarget属性が使えない？から新しいタブで開かせる
 https://www.web-dev-qa-db-ja.com/ja/github/target-blank%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6github-markdown%E3%81%A7%E6%96%B0%E3%81%97%E3%81%84%E3%82%BF%E3%83%96%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E9%96%8B%E3%81%8F/830231995/
 --->
 
-<a href="http://twitter.com/T_4c3" target="_blank">
+<a target="_blank" href="http://twitter.com/T_4c3">
   <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
 </a>
-<a href="https://qiita.com/T_4c3" target="_blank">
+<a target="_blank" href="https://qiita.com/T_4c3">
   <img height="25" src="https://img.shields.io/badge/Qiita--55C500.svg?logo=qiita&style=for-the-badge">
 </a>
-<a href="https://www.pixiv.net/users/33003714" target="_blank">
+<a target="_blank" href="https://www.pixiv.net/users/33003714">
   <img height="25" src="https://img.shields.io/badge/pixiv--1DA1F2.svg?logo=pixiv&style=for-the-badge">
 </a>
 
