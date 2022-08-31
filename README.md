@@ -1,3 +1,5 @@
+<!-- target="_blank" で新しいタブで開くだけどGtHubのREADMEでは（？）無効．．-->
+
 <a target="_blank" href="http://twitter.com/T_4c3">
   <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
 </a>
