@@ -9,4 +9,7 @@
 <a target="_blank" href="https://www.pixiv.net/users/33003714">
   <img height="25" src="https://img.shields.io/badge/pixiv--1DA1F2.svg?logo=pixiv&style=for-the-badge">
 </a>
+<a target="_blank" href="https://tototo4c3.booth.pm/">
+  <img height="25" src="https://img.shields.io/badge/-BOOTH-FC4D50.svg?logo=BOOTH&style=for-the-badge">
+</a>
 
