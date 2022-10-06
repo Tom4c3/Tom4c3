@@ -13,3 +13,6 @@
   <img height="25" src="https://img.shields.io/badge/-BOOTH-FC4D50.svg?logo=BOOTH&style=for-the-badge">
 </a>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom4c3&theme=vue-dark&show_icons=true)](https://github.com/Tom4c3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom4c3&theme=vue-dark&show_icons=true)](https://github.com/Tom4c3/github-readme-stats)
+
