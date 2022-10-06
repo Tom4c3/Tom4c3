@@ -24,5 +24,5 @@
 </p>
 
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tom4c3&theme=onedark&column=7)](https://github.com/Tom4c3/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tom4c3&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 --!>
