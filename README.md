@@ -13,7 +13,7 @@
   <a target="_blank" href="https://tototo4c3.booth.pm/">
     <img height="25" src="https://img.shields.io/badge/booth--FC4D50.svg?logo=booth&style=for-the-badge">
   </a>
-  <a target="_blank" href="https://https://cluster.mu/u/T_4c3">
+  <a target="_blank" href="https://cluster.mu/u/T_4c3">
     <img height="25" src="https://img.shields.io/badge/cluster--233852.svg?logo=BOOTH&style=for-the-badge">
   </a>
 </p>
