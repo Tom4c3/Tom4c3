@@ -1,4 +1,4 @@
-<!-- target="_blank" で新しいタブで開くけどGtHubのREADMEでは（？）無効 -->
+<!-- target="_blank" で新しいタブで開くけどGtHubのREADMEでは無効 -->
 
 <p align="left"> 
   <a target="_blank" href="http://twitter.com/T_4c3">
