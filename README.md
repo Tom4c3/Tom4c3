@@ -8,9 +8,11 @@
   <a target="_blank" href="https://www.pixiv.net/users/33003714">
     <img height="25" src="https://img.shields.io/badge/pixiv--0097fa.svg?logo=pixiv&style=for-the-badge">
   </a>
+<!--	
   <a target="_blank" href="http://twitter.com/T_4c3">
     <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge">
   </a>
+-->
   
   <a target="_blank" href="https://note.com/tomm_4c3">
 		<img height="25" src="https://img.shields.io/badge/note--2CB696.svg?logo=note&style=for-the-badge">
