@@ -23,7 +23,7 @@
   </a>
   
   <a target="_blank" href="https://www.amazon.co.jp/registry/wishlist/D63EG4MFV49/ref=cm_sw_r_cp_ep_ws_ze4oCb9NKFPDF">
-    <img height="25" src="https://img.shields.io/badge/欲しいものリスト--FF9900.svg?logo=amazon&style=for-the-badge">
+    <img height="25" src="https://img.shields.io/badge/欲しいもの--FF9900.svg?logo=amazon&style=for-the-badge">
   </a>
   
   <a target="_blank" href="https://tototo4c3.booth.pm">
