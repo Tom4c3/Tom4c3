@@ -30,9 +30,8 @@
   
   <a target="_blank" href="https://tototo4c3.booth.pm">
     <img height="25" src="https://img.shields.io/badge/booth--FC4D50.svg?logo=booth&style=for-the-badge">
-  </a>
-　<a target="_blank" href="https://tom4c3.github.io/">
-    <img height="25" src="https://img.shields.io/badge/ポートフォリオ--F8A7A0.svg?logo=portfolio&style=for-the-badge">
+  </a><a target="_blank" href="https://tom4c3.github.io/">
+    <img height="25" src="https://img.shields.io/badge/ポートフォリオ--F8A7A0.svg?style=for-the-badge">
   </a>
 
 </p>
