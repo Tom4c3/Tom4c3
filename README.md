@@ -15,10 +15,11 @@
     <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge">
   </a>
 
-  
+  <!--
   <a target="_blank" href="https://note.com/tomm_4c3">
     <img height="25" src="https://img.shields.io/badge/note--2CB696.svg?logo=note&style=for-the-badge">
   </a>
+  -->
   
   <a target="_blank" href="https://qiita.com/T_4c3">
     <img height="25" src="https://img.shields.io/badge/Qiita--55C500.svg?logo=qiita&style=for-the-badge">
@@ -30,9 +31,10 @@
   
   <a target="_blank" href="https://tototo4c3.booth.pm">
     <img height="25" src="https://img.shields.io/badge/booth--FC4D50.svg?logo=booth&style=for-the-badge">
-  </a><a target="_blank" href="https://tom4c3.github.io/">
+  </a><!--<a target="_blank" href="https://tom4c3.github.io/">
     <img height="25" src="https://img.shields.io/badge/ポートフォリオ--F8A7A0.svg?style=for-the-badge">
   </a>
+  -->
 
 </p>
 
