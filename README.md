@@ -11,21 +11,23 @@
     <img height="25" src="https://img.shields.io/badge/pixiv--0097fa.svg?logo=pixiv&style=for-the-badge">
   </a>
 
-
   <a target="_blank" href="http://twitter.com/T_4c3">
     <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge">
   </a>
  
-
-  <!--
-  <a target="_blank" href="https://note.com/tomm_4c3">
-    <img height="25" src="https://img.shields.io/badge/note--2CB696.svg?logo=note&style=for-the-badge">
+  <a target="_blank" href="https://note.com/tomm_4c3/all">
+    <img height="25" src="https://img.shields.io/badge/note--238f76.svg?logo=note&style=for-the-badge">
   </a>
-  -->
   
   <a target="_blank" href="https://qiita.com/T_4c3">
     <img height="25" src="https://img.shields.io/badge/Qiita--55C500.svg?logo=qiita&style=for-the-badge">
   </a>
+
+<!--
+  <a target="_blank" href="https://chat.openai.com/g/g-eosZqfprH-t2">
+					<img height="25" src="https://img.shields.io/badge/T2のGPTs--ffe100.svg?logo=OpenAI&style=for-the-badge">
+	 </a>
+  -->
   
   <a target="_blank" href="https://www.amazon.co.jp/registry/wishlist/D63EG4MFV49/ref=cm_sw_r_cp_ep_ws_ze4oCb9NKFPDF">
     <img height="25" src="https://img.shields.io/badge/欲しいもの--FF9900.svg?logo=amazon&style=for-the-badge">
