@@ -15,11 +15,12 @@
   <a target="_blank" href="http://twitter.com/T_4c3">
     <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge">
   </a>
-  -->
+
 
   <a target="_blank" href="https://chat.openai.com/g/g-eosZqfprH-t2">
      <img height="25" src="https://img.shields.io/badge/T2のGPTs--33ccff.svg?logo=OpenAI&style=for-the-badge">
   </a>
+    -->
  
   <a target="_blank" href="https://note.com/tomm_4c3">
     <img height="25" src="https://img.shields.io/badge/note--238f76.svg?logo=note&style=for-the-badge">
